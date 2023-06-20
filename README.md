@@ -39,7 +39,4 @@
 <br>
 
 ## Projetos
-<div>
-  <img height="150em" alt="Lua-Projects" src="https://github-readme-stats.vercel.app/api/pin/?username=Luasiq&repo=TikTok_Project&theme=radical" />
-</div>
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Luasiq&repo=TikTok_Project&theme=radical)](https://github.com/Luasiq/TikTok_Project)
