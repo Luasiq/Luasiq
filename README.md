@@ -40,3 +40,4 @@
 
 ## Projetos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Luasiq&repo=TikTok_Project&theme=radical)](https://github.com/Luasiq/TikTok_Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Luasiq&repo=DevLinks_Project&theme=radical)](https://github.com/Luasiq/DevLinks_Project)
