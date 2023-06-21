@@ -13,7 +13,7 @@
 
 <br>
 
-## Melhores Tecnologias <3
+## Tecnologias que já utilizo <3
 <div style="display: inline_block">
   <img align="center" alt="Lua-HTML" height="30" widht="40"   
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
