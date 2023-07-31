@@ -1,7 +1,7 @@
 ### Olá, Devs! Eu sou a Luana... 👋🏾
 
 - 🔭 Em busca da minha primeira oportunidade no desenvolbimento front-end
-- 🌱 Estudando HTML5, CSS3, Javascript, React e UX/UI Design
+- 🌱 Estudando Wordpress, HTML5, CSS3, Javascript, React e UX/UI Design
 - 😄 Pronouns: ela/dela
   
 <br>
