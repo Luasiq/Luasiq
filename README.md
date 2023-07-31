@@ -1,6 +1,6 @@
 ### Olá, Devs! Eu sou a Luana... 👋🏾
 
-- 🔭 Em busca da minha primeira oportunidade no desenvolbimento front-end
+- 🔭 Em busca da minha primeira oportunidade no desenvolbimento Front-End / Wordpress
 - 🌱 Estudando Wordpress, HTML5, CSS3, Javascript, React e UX/UI Design
 - 😄 Pronouns: ela/dela
   
@@ -25,7 +25,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
    <img align="center" alt="Lua-Figma" height="30" widht="40" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="center" alt="Lua-Figma" height="30" widht="40"
+  <img align="center" alt="Lua-Figma" height="30" widht="40" color="white"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
 </div>
 
