@@ -4,15 +4,7 @@
 - 🌱 **Foco Atual:** Construção de Pipelines de Dados, ETL e Modelagem de Dados.
 - 🛠️ **Estudando:** Python (Pandas/PySpark), SQL, NoSQL e Cloud Computing.
 - 😄 **Pronouns:** ela/dela
-  
-<br>
 
-<div>
-  <img height="180em" alt="Lua-Estatistcs" src="https://github-readme-stats.vercel.app/api?username=Luasiq&show_icons=true&theme=radical" />
-  <img height="180em" alt="Lua-Most-Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luasiq&layout=compact&theme=radical" />
-</div>
-
-<br>
 
 ## Stack de Engenharia & Análise de Dados 📊
 <div style="display: inline_block">
