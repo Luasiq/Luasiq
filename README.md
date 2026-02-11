@@ -1,8 +1,9 @@
-### Olá, Devs! Eu sou a Luana... 👋🏾
+## Olá, eu sou a Luana! 👋🏾
 
-- 🔭 Em busca da minha primeira oportunidade na Engenharia de Dados
-- 🌱 Estudando Python, SQL, Pandas, etc...
-- 😄 Pronouns: ela/dela
+- 🔭 **Objetivo:** Transicionando para a área de **Engenharia de Dados**.
+- 🌱 **Foco Atual:** Construção de Pipelines de Dados, ETL e Modelagem de Dados.
+- 🛠️ **Estudando:** Python (Pandas/PySpark), SQL, NoSQL e Cloud Computing.
+- 😄 **Pronouns:** ela/dela
   
 <br>
 
@@ -13,33 +14,26 @@
 
 <br>
 
-## Tecnologias que já utilizo <3
+## Stack de Engenharia & Análise de Dados 📊
 <div style="display: inline_block">
-  <img align="center" alt="Lua-HTML" height="30" widht="40"   
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Lua-CSS" height="30" widht="40" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Lua-Javascript" height="30" widht="40" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Lua-React" height="30" widht="40" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-   <img align="center" alt="Lua-Figma" height="30" widht="40" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="center" alt="Lua-Figma" height="30" widht="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
+  <img align="center" alt="Lua-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Lua-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+  <img align="center" alt="Lua-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Lua-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Lua-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Lua-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 </div>
 
 <br>
 
 ## Redes Sociais
 <div>
-  <a href="mailto:luasiq47@gmail.com" target="blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
-  <a href="https://www.linkedin.com/in/luana-siqueira-dev/" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
-  <a href="https://www.instagram.com/luasiq/" target="blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a> 
+  <a href="mailto:luasiq@hotmail.com" target="blank"> <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="blank"></a>
+  <a href="https://www.linkedin.com/in/luana-siqueira-dev/" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/luasiq/" target="blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
 </div>
 
 <br>
 
-## Projetos
+## Principais Repositórios de Dados
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Luasiq&repo=TikTok_Project&theme=radical)](https://github.com/Luasiq/TikTok_Project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Luasiq&repo=DevLinks_Project&theme=radical)](https://github.com/Luasiq/DevLinks_Project)
