@@ -1,7 +1,7 @@
 ### Olá, Devs! Eu sou a Luana... 👋🏾
 
-- 🔭 Em busca da minha primeira oportunidade no desenvolbimento Front-End / Wordpress
-- 🌱 Estudando Wordpress, HTML5, CSS3, Javascript, React e UX/UI Design
+- 🔭 Em busca da minha primeira oportunidade na Engenharia de Dados
+- 🌱 Estudando Python, SQL, Pandas, etc...
 - 😄 Pronouns: ela/dela
   
 <br>
